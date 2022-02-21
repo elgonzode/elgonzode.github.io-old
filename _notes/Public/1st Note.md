@@ -4,7 +4,7 @@ notetype : feed
 date : 21-02-2022
 ---
 
-![Avatar](/assets/img/avatar.png|100 "Avatar")
+![Avatar|100](/assets/img/avatar.png "Avatar")
 
 
 I search for a convenient way, to take notes online to a webpage. [Obsidian](https://obsidian.md) is cool too for taking quick notes an it offers a [publish service](https://obsidian.md/publish) which does exactly that, but i hesitate to take the plunge and pay for that service.
