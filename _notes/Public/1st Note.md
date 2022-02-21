@@ -4,7 +4,7 @@ notetype : feed
 date : 21-02-2022
 ---
 
-![[Screenshot 2022-02-21 at 16.54.51.png|100]]
+![[Screenshot 2022-02-21 at 16.54.51.png]]
 
 
 I search for a convenient way, to take notes online to a webpage. [Obsidian](https://obsidian.md) is cool too for taking quick notes an it offers a [publish service](https://obsidian.md/publish) which does exactly that, but i hesitate to take the plunge and pay for that service.
