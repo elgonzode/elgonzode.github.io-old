@@ -1,5 +1,5 @@
 ---
-title:"1st_Note"
+title: 1st Note
 notetype: feed 
 date: 21-02-2022
 ---

@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "bdab98c86c32895f",
+    "id": "e46450c78feb689d",
     "type": "split",
     "children": [
       {
-        "id": "647252c77ec4bd9f",
+        "id": "152bd2e50e46fc4c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1st Note.md",
+            "file": "1st Node.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0f5e1bc57c6852d8",
+    "id": "e827c049137882ba",
     "type": "split",
     "children": [
       {
-        "id": "0eb18d1e6a5e1d8d",
+        "id": "fc3106dc04ed7a63",
         "type": "tabs",
         "children": [
           {
-            "id": "d2408aa7c5d880f0",
+            "id": "25f38fed87b6db9b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "ccb08912844689c1",
+            "id": "b5e9e2d8794e2923",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,20 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "5f6ff7625b7ad618",
+    "id": "db610c3f7574a6e7",
     "type": "split",
     "children": [
       {
-        "id": "67d0f634f0a3d24d",
+        "id": "223dd78e1cbf547b",
         "type": "tabs",
         "children": [
           {
-            "id": "bd2e067342cbd1f5",
+            "id": "7bab44db42b59530",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1st Note.md",
+                "file": "1st Node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "647252c77ec4bd9f",
+  "active": "152bd2e50e46fc4c",
   "lastOpenFiles": [
-    "1st Note.md"
+    "1st Node.md"
   ]
 }
