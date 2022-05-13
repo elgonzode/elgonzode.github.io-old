@@ -7,4 +7,4 @@ date : 13-05-2022
 
 
 
-<a rel="me" href="https://norden.social/@elgonzode">Mastodon</a>
+Ich weiß nicht, was das wird mit Elon und Twitter, aber ich guck schon mal nach <a rel="me" href="https://norden.social/@elgonzode">Alternativen</a>
