@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "5ee27ddf6a2df0a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "435be337d66d950e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d51c7fcbb2f1ba62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Public/Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "153200701fe71cfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "83ede5c9392a672a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9d2e4929bb15518",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "091001db88ae723e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ff9927c33205412",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f8b9498ba6c53650",
+    "type": "split",
+    "children": [
+      {
+        "id": "01914f05d6840789",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "710d5669abd2e531",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_notes/Public/Test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4076075606f9da64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_notes/Public/Test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0320dcade6cb83ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ec0b4a67c672e5ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_notes/Public/Test.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d51c7fcbb2f1ba62",
+  "lastOpenFiles": [
+    "_notes/Public/Untitled.md",
+    "_notes/Public/Test.md",
+    "_notes/Public/Mastodon.md",
+    "_notes/Public/1st Note.md",
+    "_posts/2020-03-01-how-to.md",
+    "pages/index.md",
+    "pages/posts.md",
+    "pages/notes.md"
+  ]
+}
